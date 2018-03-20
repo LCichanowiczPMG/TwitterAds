@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAdsApiConsole", "TwitterAdsApiConsole\TwitterAdsApiConsole.csproj", "{F5AA448A-7913-4E04-BB12-8B800427D321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AA448A-7913-4E04-BB12-8B800427D321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AA448A-7913-4E04-BB12-8B800427D321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AA448A-7913-4E04-BB12-8B800427D321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AA448A-7913-4E04-BB12-8B800427D321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F73C1FF-8A6B-49B0-ACC2-F0A76AF89D08}
+	EndGlobalSection
+EndGlobal
